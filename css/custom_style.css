@@ -1,0 +1,19 @@
+.post_response{
+    border : 1px solid black;
+    margin : 10px;
+    padding : 8px;
+    width : auto;
+    text-align: center;
+    background-color: darkblue;
+    color : white;
+}
+
+.post_response_two{
+    border : 1px solid black;
+    margin : 10px;
+    padding : 8px;
+    width : auto;
+    text-align: center;
+    background-color: darkred;
+    color : white;
+}
